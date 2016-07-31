@@ -1,0 +1,12 @@
+{
+  "name"	: "lectionary",
+  "version"	: "0.0.1",
+  "description" : "Scrape online lectionary for chime playlist",
+  "main"	: "server.js",
+  "author"	: "Zach Sanderson",
+  "dependencies" : {
+    "express"	: "latest",
+    "request"   : "latest",
+    "cheerio"   : "latest"
+  }
+}
